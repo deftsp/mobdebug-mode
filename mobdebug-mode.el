@@ -1,8 +1,10 @@
-;;; mobdebug-mode.el ---                                  -*- lexical-binding: t; -*-
+;;; mobdebug-mode.el --- Major mode for MobDebug -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2013  Shihpin Tseng
 
 ;; Author: Shihpin Tseng <deftsp@gmail.com>
+;; URL: https://github.com/deftsp/mobdebug-mode
+;; Package-Requires: ((lua-mode "20130419"))
 ;; Keywords:
 
 ;; This program is free software; you can redistribute it and/or modify
